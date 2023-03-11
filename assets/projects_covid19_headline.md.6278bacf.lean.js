@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as a,a as t}from"./app.0402777b.js";const u=JSON.parse('{"title":"COVID-19 新冠疫情实时数据和政策展示","description":"","frontmatter":{},"headers":[],"relativePath":"projects/covid19/headline.md"}'),r={name:"projects/covid19/headline.md"},l=t("",6),o=[l];function c(n,p,s,d,h,w){return a(),i("div",null,o)}const f=e(r,[["render",c]]);export{u as __pageData,f as default};
